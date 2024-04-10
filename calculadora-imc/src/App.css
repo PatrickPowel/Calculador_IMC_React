@@ -1,0 +1,17 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+input {
+  margin-bottom: 10px;
+  border: solid 1px gray;
+  border-radius: 5px 5px 5px 5px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 1%;
+  border: solid 1px gray;
+  border-radius: 10px 10px 10px 10px;
+}
